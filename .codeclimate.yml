@@ -1,8 +1,6 @@
 engines:
   clog:
     enabled: true
-  rubocop:
-    enabled: true
 ratings:
   paths:
   - "**.coffee"
